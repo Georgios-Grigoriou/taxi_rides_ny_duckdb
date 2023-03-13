@@ -1,7 +1,4 @@
 In all of the cases we will need to run piperider run and check the report (.html file)
-Indicative screenshot below:
-
-<img width="937" alt="image" src="https://user-images.githubusercontent.com/65050959/224816143-792f4610-09a5-46c3-a8bc-c7478b7be867.png">
 
 **Question 1**
 <img width="992" alt="image" src="https://user-images.githubusercontent.com/65050959/224816750-d2ff0305-67a0-49e6-87dc-7e7ce09281f2.png">
