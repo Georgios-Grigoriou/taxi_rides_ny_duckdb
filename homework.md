@@ -1,3 +1,6 @@
+In all of the cases we will need to run piperider run and check the report (.html file)
+Indicative screenshot below:
+
 <img width="937" alt="image" src="https://user-images.githubusercontent.com/65050959/224816143-792f4610-09a5-46c3-a8bc-c7478b7be867.png">
 
 **Question 1**
