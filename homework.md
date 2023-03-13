@@ -17,8 +17,8 @@ In all of the cases we will need to run piperider run and check the report (.htm
 - 81.4M/35K/14.6K
 
 **Question 3**
-<img width="240" alt="image" src="https://user-images.githubusercontent.com/65050959/224817088-9f2583a3-e461-46b3-a1a8-54152d974837.png">
-<img width="587" alt="image" src="https://user-images.githubusercontent.com/65050959/224816902-20670963-3906-463a-98b7-6990c859422a.png">
+- <img width="240" alt="image" src="https://user-images.githubusercontent.com/65050959/224817088-9f2583a3-e461-46b3-a1a8-54152d974837.png">
+- <img width="587" alt="image" src="https://user-images.githubusercontent.com/65050959/224816902-20670963-3906-463a-98b7-6990c859422a.png">
 
 - 1.95/35.43/0/16.3K/151.5M
 - 3.95/25.43/23.88/267.3K/281.5M
